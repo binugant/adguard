@@ -1,2 +1,2 @@
-instagram.com
-*.instagram.com
+||instagram.com^ 
+||eenadu.net^ 
